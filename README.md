@@ -13,6 +13,8 @@ Components
 This package currently bundles several components:
 
  * The `Parser` itself
+
+
  * A `NodeDumper` to dump the nodes to a human readable string representation
  * A `NodeTraverser` to traverse and modify the node tree
  * A `PrettyPrinter` to translate the node tree back to PHP
